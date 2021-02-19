@@ -1,3 +1,4 @@
-#### Values JS
+### Greetings! :wave:
 
-[values.js](https://github.com/noeldelgado/values.js)
+## React Color Generator
+A task to practise useState and useEffect hooks :rainbow:
